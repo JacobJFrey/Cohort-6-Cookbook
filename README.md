@@ -1,2 +1,2 @@
-# Cohort-6-Cookbook
-Collection of Recipes from Cohort[6].PGH
+# Cohort[6].Cookbook
+A Collection of Recipes from TechElevator Cohort[6] in PGH
