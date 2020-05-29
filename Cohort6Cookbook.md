@@ -10,3 +10,26 @@ Rule 3: Forget all the rules.
 Add in any recipes that you would like to add and commit them to the Git.Cohort[6].Cookbook.
 I would suggest including Recipe Name, Your Name, Ingredients, Instructions. <- Subject to Change.
 I would suggest 1 blank line before and after your addition, to make it more readable.
+
+###### Deserts / Cookies ######
+
+Cake Mix Cookies
+Jacob Frey
+1 box cake mix
+1 egg beaten
+2 c. Cool Whip
+Powdered Sugar
+Preheat oven to 350. 
+Mix cake mix, egg and Cool Whip (fun to do by hand). 
+Form into balls and roll in powdered sugar. 
+Put on tray and bake for 12 - 15 minutes
+
+
+###### Cooking Hacks ######
+
+Mini Pizzas
+I use flour tortilla shells as pizza crusts. Top with favorite ingredients and back at 400 for about 10 minutes.
+Best thing about this, if you use small tortillas, you can make trial pizzas to see if they work. 
+I liked a blue cheese and bacon pizza, but probably wouldn't have never tried it on a normal sized crust.
+I suggest trying: ranch dressing, Frank's hot sauce, or salsa instead of pizza sauce
+Also, it is fun for kids to make a kid size pizza of their own. They can make it however they want!
